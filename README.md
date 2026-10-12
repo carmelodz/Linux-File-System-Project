@@ -45,10 +45,10 @@ system that most operating system’s file systems have today.
 
 ## Team
 
-Carmelo De Guzman
-Jiayi Gu
-Congcheng Zeng
-Jiaming Zhao
+- Carmelo De Guzman
+- Jiayi Gu
+- Congcheng Zeng
+- Jiaming Zhao
 
 ## Status
 
